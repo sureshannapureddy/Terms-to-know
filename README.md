@@ -57,33 +57,33 @@ Cluster Analysis is an explorative analysis that tries to identify structures wi
 
 **HANA:** High-performance Analytical Application – a software/hardware in-memory platform from SAP, designed for high volume data transactions and analytics.
 
-HBase: A distributed, column-oriented database. It uses HDFS for its underlying storage, and supports both batch-style computations using MapReduce and transactional interactive
+**HBase:** A distributed, column-oriented database. It uses HDFS for its underlying storage, and supports both batch-style computations using MapReduce and transactional interactive
 
-Load balancing: Distributing workload across multiple computers or servers in order to achieve optimal results and utilization of the system
+****Load balancing:** Distributing workload across multiple computers or servers in order to achieve optimal results and utilization of the system
 
-Metadata: “Metadata is data that describes other data. Metadata summarizes basic information about data, which can make finding and working with particular instances of data easier. For example, author, date created and date modified and file size are very basic document metadata. In addition to document files, metadata is used for images, videos, spreadsheets and web pages.” Source: TechTarget
+**Metadata:** “Metadata is data that describes other data. Metadata summarizes basic information about data, which can make finding and working with particular instances of data easier. For example, author, date created and date modified and file size are very basic document metadata. In addition to document files, metadata is used for images, videos, spreadsheets and web pages.” Source: TechTarget
 
-MongoDB: MongoDB is a cross-platform, open-source database that uses a document-oriented data model, rather than a traditional table-based relational database structure. This type of database structure is designed to make the integration of structured and unstructured data in certain types of applications easier and faster.
+**MongoDB:** MongoDB is a cross-platform, open-source database that uses a document-oriented data model, rather than a traditional table-based relational database structure. This type of database structure is designed to make the integration of structured and unstructured data in certain types of applications easier and faster.
 
-Mashup: Fortunately, this term has similar definition of how we understand mashup in our daily lives. Essentially, mashup is a method of merging different datasets into a single application (Examples: Combining real estate listings with demographic data or geographic data). It’s really cool for visualization.
+**Mashup:** Fortunately, this term has similar definition of how we understand mashup in our daily lives. Essentially, mashup is a method of merging different datasets into a single application (Examples: Combining real estate listings with demographic data or geographic data). It’s really cool for visualization.
 
-Multi-Dimensional Databases: A database optimized for data online analytical processing (OLAP) applications and for data warehousing.Just in case you are wondering about data warehouses, it is nothing but a central repository of data multiple data sources.
+**Multi-Dimensional Databases: **A database optimized for data online analytical processing (OLAP) applications and for data warehousing.Just in case you are wondering about data warehouses, it is nothing but a central repository of data multiple data sources.
 
-MultiValue Databases: They are a type of NoSQL and multidimensional databases that understand 3 dimensional data directly. They are good for manipulating HTML and XML strings directly for example.
+**MultiValue Databases: **They are a type of NoSQL and multidimensional databases that understand 3 dimensional data directly. They are good for manipulating HTML and XML strings directly for example.
 
-Natural Language Processing: Software algorithms designed to allow computers to more accurately understand everyday human speech, allowing us to interact more naturally and efficiently with them.
+**Natural Language Processing:** Software algorithms designed to allow computers to more accurately understand everyday human speech, allowing us to interact more naturally and efficiently with them.
 
-Neural Network: As per http://neuralnetworksanddeeplearning.com/, Neural networks is a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. It’s been a long time since someone called a programming paradigm ‘beautiful. In essence, artificial neural networks are models inspired by the real-life biology of the brain.. Closely related to this neural networks is the term Deep Learning.  Deep learning, a powerful set of techniques for learning in neural networks.
+**Neural Network:** As per http://neuralnetworksanddeeplearning.com/, Neural networks is a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. It’s been a long time since someone called a programming paradigm ‘beautiful. In essence, artificial neural networks are models inspired by the real-life biology of the brain.. Closely related to this neural networks is the term Deep Learning.  Deep learning, a powerful set of techniques for learning in neural networks.
 
-Pattern Recognition: Pattern recognition occurs when an algorithm locates recurrences or regularities within large data sets or across disparate data sets. It is closely linked and even considered synonymous with machine learning and data mining. This visibility can help researchers discover insights or reach conclusions that would otherwise be obscured.
+**Pattern Recognition:** Pattern recognition occurs when an algorithm locates recurrences or regularities within large data sets or across disparate data sets. It is closely linked and even considered synonymous with machine learning and data mining. This visibility can help researchers discover insights or reach conclusions that would otherwise be obscured.
 
-RFID: Radio Frequency Identification; a type of sensor using wireless non-contact radio-frequency electromagnetic fields to transfer data. With Internet Of Things revolution, RFID tags can be embedded into every possible ‘thing’ to generate monumental amount of data that needs to be analyzed. Welcome to the data world :-)
+**RFID:** Radio Frequency Identification; a type of sensor using wireless non-contact radio-frequency electromagnetic fields to transfer data. With Internet Of Things revolution, RFID tags can be embedded into every possible ‘thing’ to generate monumental amount of data that needs to be analyzed. Welcome to the data world :-)
 
-SaaS: Software-as-a-Service enables vendors to host an application and make it available via the internet. SaaS providers provide services over the cloud.
+**SaaS:** Software-as-a-Service enables vendors to host an application and make it available via the internet. SaaS providers provide services over the cloud.
 
-Semi-structured data: Semi-structured data refers to data that is not captured or formatted in conventional ways, such as those associated with a traditional database fields or common data models. It is also not raw or totally unstructured and may contain some data tables, tags or other structural elements. Graphs and tables, XML documents and email are examples of semi-structured data, which is very prevalent across the World Wide Web and is often found in object-oriented databases.
+**Semi-structured data:** Semi-structured data refers to data that is not captured or formatted in conventional ways, such as those associated with a traditional database fields or common data models. It is also not raw or totally unstructured and may contain some data tables, tags or other structural elements. Graphs and tables, XML documents and email are examples of semi-structured data, which is very prevalent across the World Wide Web and is often found in object-oriented databases.
 
-Sentiment Analysis: Sentiment analysis involves the capture and tracking of opinions, emotions or feelings expressed by consumers in various types of interactions or documents, including social media, calls to customer service representatives, surveys and the like. Text analytics and natural language processing are typical activities within a process of sentiment analysis. The goal is to determine or assess the sentiments or attitudes expressed toward a company, product, service, person or event.
+**Sentiment Analysis:** Sentiment analysis involves the capture and tracking of opinions, emotions or feelings expressed by consumers in various types of interactions or documents, including social media, calls to customer service representatives, surveys and the like. Text analytics and natural language processing are typical activities within a process of sentiment analysis. The goal is to determine or assess the sentiments or attitudes expressed toward a company, product, service, person or event.
 
 Spatial analysis refers to analysing spatial data such geographic data or topological data to identify and understand patterns and regularities within data distributed in geographic space.
 
@@ -91,10 +91,10 @@ Stream processing is designed to act on real-time and streaming data with “con
 
 Smart Data is supposedly the data that is useful and actionable after some filtering done by algorithms.
 
-Terabyte: A relatively large unit of digital data, one Terabyte (TB) equals 1,000 Gigabytes. It has been estimated that 10 Terabytes could hold the entire printed collection of the U.S. Library of Congress, while a single TB could hold 1,000 copies of the Encyclopedia Brittanica.  You must read this article to know more about all these terms.
+**Terabyte:** A relatively large unit of digital data, one Terabyte (TB) equals 1,000 Gigabytes. It has been estimated that 10 Terabytes could hold the entire printed collection of the U.S. Library of Congress, while a single TB could hold 1,000 copies of the Encyclopedia Brittanica.  You must read this article to know more about all these terms.
 
-Visualization – with the right visualizations, raw data can be put to use. Visualizations of course do not mean ordinary graphs or pie-charts. They mean complex graphs that can include many variables of data while still remaining understandable and readable
+**Visualization** – with the right visualizations, raw data can be put to use. Visualizations of course do not mean ordinary graphs or pie-charts. They mean complex graphs that can include many variables of data while still remaining understandable and readable
 
-Yottabytes– approximately 1000 Zettabytes, or 250 trillion DVD’s. The entire digital universe today is 1 Yottabyte and this will double every 18 months. You must read this article to know more about all these terms.
+**Yottabytes– **approximately 1000 Zettabytes, or 250 trillion DVD’s. The entire digital universe today is 1 Yottabyte and this will double every 18 months. You must read this article to know more about all these terms.
 
-Zettabytes – approximately 1000 Exabytes or 1 billion terabytes.  You must read this article to know more about all these terms.
+**Zettabytes** – approximately 1000 Exabytes or 1 billion terabytes.  You must read this article to know more about all these terms.
