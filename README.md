@@ -1,7 +1,7 @@
 # Bigdata Terms To Know
 Apache Software Foundation (ASF) provides many of Big Data open source projects and currently there are more than 350 projects. I could be spending my whole life just explaining these projects so instead I picked few popular terms.
 
-Apache Kafka: Kafka, named after that famous czech writer, is used for building real-time data pipelines and streaming apps. Why is it so popular? Because it enables storing, managing, and processing of streams of data in a fault-tolerant way and supposedly ‘wicked fast’. Given that social network environment deals with streams of data, Kafka is currently very popular.
+"""Apache Kafka:""" Kafka, named after that famous czech writer, is used for building real-time data pipelines and streaming apps. Why is it so popular? Because it enables storing, managing, and processing of streams of data in a fault-tolerant way and supposedly ‘wicked fast’. Given that social network environment deals with streams of data, Kafka is currently very popular.
 
 Apache Mahout: Mahout provides a library of pre-made algorithms for machine learning and data mining and also an environment to create more algorithms. In other words, an environment in heaven for machine learning geeks. Machine learning and Data mining are covered in my previous article mentioned above.
 
