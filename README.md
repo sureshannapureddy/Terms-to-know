@@ -35,7 +35,7 @@ Cluster Analysis is an explorative analysis that tries to identify structures wi
 
 **Comparative Analytics:** I’ll be going little deeper into analysis in this article as big data’s holy grail is in analytics. Comparative analysis, as the name suggests, is about comparing multiple processes, data sets or other objects using statistical techniques such as pattern analysis, filtering and decision-tree analytics etc. I know it’s getting little technical but I can’t completely avoid the jargon. Comparative analysis can be used in healthcare to compare large volumes of medical records, documents, images etc. for more effective and hopefully accurate medical diagnoses.
 
-****Connection Analytics:** You must have seen these spider web like charts connecting people with topics etc to identify influencers in certain topics. Connection analytics is the one that helps to discover these interrelated connections and influences between people, products, and systems within a network or even combining data from multiple networks.
+**Connection Analytics:** You must have seen these spider web like charts connecting people with topics etc to identify influencers in certain topics. Connection analytics is the one that helps to discover these interrelated connections and influences between people, products, and systems within a network or even combining data from multiple networks.
 
 **Data Analyst:** Data Analyst is an extremely important and popular job as it deals with collecting, manipulating and analyzing data in addition to preparing reports. I’ll be coming up with a more exhaustive article on data analysts.
 
