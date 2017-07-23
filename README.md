@@ -17,7 +17,7 @@ All these provide quick and interactive SQL like interactions with Apache Hadoop
 
 **Apache Sqoop:** A tool for moving data from Hadoop to non-Hadoop data stores like data warehouses and relational databases.
 
-Apache Storm: A free and open source real-time distributed computing system. It makes it easier to process unstructured data continuously with instantaneous processing, which uses Hadoop for batch processing.
+**Apache Storm: **A free and open source real-time distributed computing system. It makes it easier to process unstructured data continuously with instantaneous processing, which uses Hadoop for batch processing.
 
 **Artificial Intelligence (AI)** – Why is AI here? Isn’t it a separate field you might ask. All these trending technologies are so connected that it’s better for us to just keep quiet and keep learning, OK? AI is about developing intelligence machines and software in such a way that this combination of hardware and software is capable of perceiving the environment and take necessary action when required and keep learning from those actions. Sounds similar to machine learning? Join my ‘confused’ club.
 
