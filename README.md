@@ -59,7 +59,7 @@ Cluster Analysis is an explorative analysis that tries to identify structures wi
 
 **HBase:** A distributed, column-oriented database. It uses HDFS for its underlying storage, and supports both batch-style computations using MapReduce and transactional interactive
 
-****Load balancing:** Distributing workload across multiple computers or servers in order to achieve optimal results and utilization of the system
+**Load balancing:** Distributing workload across multiple computers or servers in order to achieve optimal results and utilization of the system
 
 **Metadata:** “Metadata is data that describes other data. Metadata summarizes basic information about data, which can make finding and working with particular instances of data easier. For example, author, date created and date modified and file size are very basic document metadata. In addition to document files, metadata is used for images, videos, spreadsheets and web pages.” Source: TechTarget
 
