@@ -7,7 +7,7 @@ Apache Software Foundation (ASF) provides many of Big Data open source projects 
 
 **Apache Oozie:** In any programming environment, you need some workflow system to schedule and run jobs in a predefined manner and with defined dependencies. Oozie provides that for Big Data jobs written in languages like pig, MapReduce, and Hive.
 
-Apache Drill, Apache Impala, Apache Spark SQL
+**Apache Drill, Apache Impala, Apache Spark SQL**
 
 All these provide quick and interactive SQL like interactions with Apache Hadoop data. These are useful if you already know SQL and work with data stored in big data format (i.e. HBase or HDFS). Sorry for being little geeky here.
 
